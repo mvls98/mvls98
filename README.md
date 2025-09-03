@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mvls98&label=Profile%20views&color=0e75b6&style=flat" alt="mvls98" /> </p>
 
-- How to reach me **maravalsami@gmail.com**
-- Know about my interests **Computational modeling (AI), drug design, cheminformatics, structural biology, and molecular dynamics**
-- Fun fact **I love climbing and anything outdoors related 🌸🧗‍♀️**
+- How to reach me: **maravalsami@gmail.com**
+- Know about my interests: **Computational modeling (AI), drug design, cheminformatics, structural biology, and molecular dynamics**
+- Fun fact: **I love climbing and anything outdoors related 🌸🧗‍♀️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
