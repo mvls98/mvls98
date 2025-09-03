@@ -1,5 +1,5 @@
 <h1 align="center">Hello world, I'm Mara Valsami :) </h1>
-<h3 align="center">Pharmacist (MPharm) and recent Bioinformatics (MSc). Currently in Amsterdam, NL 🇳🇱 </h3>
+<h3 align="center">Pharmacist (MPharm) and recent Bioinformatics (MSc) graduate. Currently in Amsterdam, NL 🇳🇱 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mvls98&label=Profile%20views&color=0e75b6&style=flat" alt="mvls98" /> </p>
 
